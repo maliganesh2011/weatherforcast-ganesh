@@ -1,1 +1,1 @@
-# weatherforcast-ganesh
+# weather-forecast-ganesh
